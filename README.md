@@ -1,6 +1,7 @@
 # React calculator
 
-A calculator made in React.js with basic calculation functions
+A calculator made in <a href="https://reactjs.org/" target="_blank">React.js</a> 
+with basic calculation functions
 
 ## Installation
 
